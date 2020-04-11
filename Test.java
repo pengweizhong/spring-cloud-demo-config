@@ -14,4 +14,7 @@ public class Dev{
 	private void test2(){
 		System.out.println("Hello ,Dev!");
 	}
+	private void test4(){
+		System.out.println("Hello ,Dev!");
+	}	
 }
